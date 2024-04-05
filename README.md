@@ -1,6 +1,8 @@
-# burgermenuzoo
+### Approaches implemented here
+1. checkbox hack (`position: sticky` header + `position: fixed` menu) for desktop
+2. `:target`-based for mobile?
 
-### Approaches
+### Approaches in literature
 1. checkbox hack
 2. `:target`-based
 3. `focus-within`-based
