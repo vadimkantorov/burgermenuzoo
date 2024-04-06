@@ -1,6 +1,7 @@
 ### Approaches implemented here
-1. checkbox hack (`position: sticky` header + `position: fixed` menu) for desktop
-2. `:target`-based for mobile?
+- [`noburgermenu.html`](./noburgermenu.html) - no burger menu, sticky header, hard-coded scroll-margin-top for navigation
+- checkbox hack (`position: sticky` header + `position: fixed` menu) for desktop
+- `:target`-based for mobile?
 
 ### Approaches in literature
 1. checkbox hack
