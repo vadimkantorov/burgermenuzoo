@@ -1,6 +1,6 @@
 ### Approaches implemented here
 - [`noburgermenu.html`](./noburgermenu.html) - no burger menu, sticky header, hard-coded scroll-margin-top for navigation
-- checkbox hack (`position: sticky` header + `position: fixed` menu) for desktop
+- [`burgermenucheckboxhack.html`](./burgermenucheckboxhack.html) (`position: sticky` header + `position: fixed` menu) for desktop
 - `:target`-based for mobile?
 
 ### Approaches in literature
