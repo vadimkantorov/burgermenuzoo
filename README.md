@@ -1,7 +1,7 @@
 ### Approaches implemented here
 - [`noburgermenu.html`](./noburgermenu.html) - no burger menu, sticky header, hard-coded scroll-margin-top for navigation
 - [`burgermenucheckboxhack.html`](./burgermenucheckboxhack.html) (`position: sticky` header + `position: fixed` menu) for desktop
-- `:target`-based for mobile?
+- [`burgermenulinktargethack.html`](./burgermenulinktargethack.html): `:target`-based hack for mobile
 
 ### Approaches in literature
 1. checkbox hack
@@ -25,3 +25,9 @@
 - https://dev.to/ljcdev/hamburger-css-no-js-2dfa
 - https://codepen.io/markcaron/pen/pPZVWO
 - https://blog.logrocket.com/create-responsive-mobile-menu-with-css-no-javascript/
+- https://www.js-craft.io/blog/css-focus-within-dropdown-menu-example/
+- https://medium.com/codex/building-a-more-accessible-and-simpler-hamburger-menu-f6d681a7e671
+
+
+### References for scroll-to-top
+- https://medium.com/geekculture/how-can-you-create-a-scroll-to-top-button-with-just-html-4cb69e083e50
