@@ -27,6 +27,9 @@
 - https://blog.logrocket.com/create-responsive-mobile-menu-with-css-no-javascript/
 - https://www.js-craft.io/blog/css-focus-within-dropdown-menu-example/
 - https://medium.com/codex/building-a-more-accessible-and-simpler-hamburger-menu-f6d681a7e671
+- https://blog.logrocket.com/making-dropdown-menus-css/
+- https://ghost-o-matic.com/hamburger-menu-using-details-summary/
+- https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/
 
 
 ### References for scroll-to-top
